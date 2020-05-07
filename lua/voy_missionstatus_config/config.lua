@@ -1,6 +1,6 @@
 VOY_Mission_Status_Config = {}
 
-VOY_Mission_Status_Config_Version = 1
+VOY_Mission_Status_Config_Version = 3
 
 VOY_Mission_Status_Config_Usergroups = {
 	["superadmin"] = true,
